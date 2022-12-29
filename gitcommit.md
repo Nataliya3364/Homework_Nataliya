@@ -1,0 +1,1 @@
+1. В папке **NewRepositoty** создаем новый файл gitcommit.md
